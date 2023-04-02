@@ -1,5 +1,5 @@
 {
-    "name": "runelaenen/sw6-redirects",
+    "name": "fabian-koehnen/sw6-redirects",
     "description": "Redirect plugin for Shopware 6",
     "version": "1.4.0",
     "type": "shopware-platform-plugin",
