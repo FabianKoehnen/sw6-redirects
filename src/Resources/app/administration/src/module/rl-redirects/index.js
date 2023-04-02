@@ -40,7 +40,7 @@ Shopware.Module.register('rl-redirects', {
 
     settingsItem: [{
         to: 'rl.redirects.list',
-        group: 'shop',
-        icon: 'small-arrow-large-double-right',
+        group: 'plugins',
+        icon: 'small-arrow-large-double-right'
     }],
 });
